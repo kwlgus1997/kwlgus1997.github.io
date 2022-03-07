@@ -1,0 +1,125 @@
+﻿*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.container{
+	background-color: #ffffff;
+	width: 90%
+	margin: 100px auto;
+	display: flex;
+	padding: 20px;
+}
+
+.box1{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("11.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box2{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("12.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box3{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("21.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box4{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("22.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box5{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("31.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box6{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("32.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box7{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("41.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box8{
+	height: 600px;
+	padding: 25px;
+	border: #ffffff solid 3px;
+	background-image: url("42.png");
+	background-size: cover;
+	flex: 1;
+	transition: 1s;
+}
+
+.box1:hover{
+	flex: 8;
+}
+
+.box2:hover{
+	flex: 8;
+}
+
+.box3:hover{
+	flex: 8;
+}
+
+.box4:hover{
+	flex: 8;
+}
+
+.box5:hover{
+	flex: 8;
+}
+
+.box6:hover{
+	flex: 8;
+}
+
+.box7:hover{
+	flex: 8;
+}
+
+.box8:hover{
+	flex: 8;
+}
